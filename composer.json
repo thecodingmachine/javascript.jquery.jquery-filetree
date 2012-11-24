@@ -3,7 +3,7 @@
     "description": "This package contains the jQuery FileTree library, along a Mouf installer file to add JQuery FileTree easily in your Mouf project.",
     "keywords": ["javascript", "mouf", "jquery", "filetree", "jquery filetree"],
     "homepage": "http://www.abeautifulsite.net/blog/2008/03/jquery-file-tree/",
-    "type": "library",
+    "type": "mouf-library",
     "license": "MIT",
     "authors": [
         {
