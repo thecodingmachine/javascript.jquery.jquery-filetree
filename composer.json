@@ -20,7 +20,7 @@
 	    "mouf": {
 	    	"install": {
 	    		"type": "file",
-	    		file": "install.php"
+	    		"file": "install.php"
 	    	}
 	    }
 	}
